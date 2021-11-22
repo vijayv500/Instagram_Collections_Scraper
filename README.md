@@ -1,5 +1,7 @@
 # Instagram Collections Scraper
 
+* Idea inspired by this [tweet from David Ulevitch, a venture capitalist at Andreessen Horowitz.](https://twitter.com/davidu/status/1459195822466166788?s=20)
+
 * This script will scrape images from your Instagram collection (SAVED images grouped into collections). 
 
 * You'll have to input Instagram USERNAME, PASSWORD & COLLECTION_NAME at appropriate places.
